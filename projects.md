@@ -61,10 +61,10 @@ Load Model," Journal of Modern Power Systems and Clean Energy, vol. 8, no. 5, pp
 
 ### Robust Time-Varying Conservation Voltage Reduction Evaluation
 <figure>
-  <div style="width: 33%; float: left; margin-right: 0%;">
+  <div style="width: 38%; float: left; margin-right: 0%;">
     <img src="http://zixiaoma1991.github.io/files/F4.jpg" alt="datadriven" style="width: 90%;"> 
   </div>
-  <div style="width: 57%; float: left;">
+  <div style="width: 62%; float: left;">
     <img src="http://zixiaoma1991.github.io/files/F44.png" alt="thirdimage" style="width: 90%;">
   </div>
 </figure>
