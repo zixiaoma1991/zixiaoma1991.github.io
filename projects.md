@@ -6,11 +6,11 @@ title: Research Projects
 ### Safe Imitation Learning Control for Inverter-based Microgrids in EMT Timescale.
 <figure>
   <div style="width: 48%; float: left; margin-right: 1%;">
-    <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 100%; margin-bottom: 1%;">
-    <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 100%;">
+    <img src="http://zixiaoma1991.github.io/files/F1.png" alt="datadriven" style="width: 100%; margin-bottom: 1%;">
+    <img src="http://zixiaoma1991.github.io/files/F11.png" alt="safelearning" style="width: 100%;">
   </div>
   <div style="width: 48%; float: left;">
-    <img src="F222.png" alt="thirdimage" style="width: 100%;">
+    <img src="(http://zixiaoma1991.github.io/files/F222.png)" alt="thirdimage" style="width: 100%;">
   </div>
 </figure>
 
