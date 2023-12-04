@@ -6,11 +6,11 @@ title: Research Projects
 ### Safe Imitation Learning Control for Inverter-based Microgrids in EMT Timescale.
 <figure>
   <div style="width: 46%; float: left; margin-right: 1%;">
-    <img src="http://zixiaoma1991.github.io/files/F1.png" alt="datadriven" style="width: 100%; margin-bottom: 1%;">
-    <img src="http://zixiaoma1991.github.io/files/F222.png" alt="safelearning" style="width: 100%;">
+    <img src="http://zixiaoma1991.github.io/files/F1.png" alt="datadriven" style="width: 90%; margin-bottom: 1%;">
+    <img src="http://zixiaoma1991.github.io/files/F222.png" alt="safelearning" style="width: 90%;">
   </div>
   <div style="width: 50%; float: left;">
-    <img src="http://zixiaoma1991.github.io/files/F11.png" alt="thirdimage" style="width: 100%;">
+    <img src="http://zixiaoma1991.github.io/files/F11.png" alt="thirdimage" style="width: 90%;">
   </div>
 </figure>
 
@@ -21,8 +21,8 @@ Related publications:
 
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
-  <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 48%; float: left;">
+  <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 45%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 45%; float: left;">
 </figure>
 
 Related publications:
@@ -33,10 +33,12 @@ Nonlinearities," Systems & Control Letters, vol. 156, no. 105012, 2021. [PDF](ht
 
 ### WECC Composite Load Modeling: Order Reduction, Parameter reduction and Parameter Identification.
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 52%; float: left; margin-right: 1%;">
-  <img src="http://zixiaoma1991.github.io/files/F333.png" alt="safelearning" style="width: 44%; float: left;">
+  <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 49%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F333.png" alt="safelearning" style="width: 41%; float: left;">
 </figure>
-![datadriven](http://zixiaoma1991.github.io/files/F3.png)
+<figure>
+  <img src="http://zixiaoma1991.github.io/files/F3.png" alt="datadriven" style="width: 90%; float: left; margin-right: 1%;">
+</figure>
 
 Related publications:
 - Zixiao Ma, Bai Cui, Zhaoyu Wang and Dongbo Zhao, "Parameter Reduction of Composite Load Model using Active
@@ -51,8 +53,8 @@ Load Model," Journal of Modern Power Systems and Clean Energy, vol. 8, no. 5, pp
 
 ### Robust Time-Varying Conservation Voltage Reduction Evaluation
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F4.jpg" alt="datadriven" style="width: 36%; float: left; margin-right: 1%;">
-  <img src="http://zixiaoma1991.github.io/files/F44.png" alt="safelearning" style="width: 60%; float: left;">
+  <img src="http://zixiaoma1991.github.io/files/F4.jpg" alt="datadriven" style="width: 33%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F44.png" alt="safelearning" style="width: 57%; float: left;">
 </figure>
 
 Related publications:
