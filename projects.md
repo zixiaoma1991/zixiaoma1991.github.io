@@ -22,7 +22,7 @@ Related publications:
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
 <figure>
   <div style="width: 50%; float: left; margin-right: 0%;">
-    <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 90%; 
+    <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 90%;> 
   </div>
   <div style="width: 50%; float: left;">
     <img src="http://zixiaoma1991.github.io/files/F2.png" alt="thirdimage" style="width: 90%;">
@@ -38,7 +38,7 @@ Nonlinearities," Systems & Control Letters, vol. 156, no. 105012, 2021. [PDF](ht
 ### WECC Composite Load Modeling: Order Reduction, Parameter reduction and Parameter Identification.
 <figure>
   <div style="width: 49%; float: left; margin-right: 0%;">
-    <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 90%; 
+    <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 90%;> 
   </div>
   <div style="width: 41%; float: left;">
     <img src="http://zixiaoma1991.github.io/files/F333.png" alt="thirdimage" style="width: 90%;">
@@ -62,7 +62,7 @@ Load Model," Journal of Modern Power Systems and Clean Energy, vol. 8, no. 5, pp
 ### Robust Time-Varying Conservation Voltage Reduction Evaluation
 <figure>
   <div style="width: 33%; float: left; margin-right: 0%;">
-    <img src="http://zixiaoma1991.github.io/files/F4.png" alt="datadriven" style="width: 90%; 
+    <img src="http://zixiaoma1991.github.io/files/F4.png" alt="datadriven" style="width: 90%;> 
   </div>
   <div style="width: 57%; float: left;">
     <img src="http://zixiaoma1991.github.io/files/F44.png" alt="thirdimage" style="width: 90%;">
