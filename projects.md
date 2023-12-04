@@ -7,10 +7,10 @@ title: Research Projects
 <figure>
   <div style="width: 48%; float: left; margin-right: 1%;">
     <img src="http://zixiaoma1991.github.io/files/F1.png" alt="datadriven" style="width: 100%; margin-bottom: 1%;">
-    <img src="http://zixiaoma1991.github.io/files/F11.png" alt="safelearning" style="width: 100%;">
+    <img src="http://zixiaoma1991.github.io/files/F222.png" alt="safelearning" style="width: 100%;">
   </div>
   <div style="width: 48%; float: left;">
-    <img src="(http://zixiaoma1991.github.io/files/F222.png)" alt="thirdimage" style="width: 100%;">
+    <img src="http://zixiaoma1991.github.io/files/F11.png" alt="thirdimage" style="width: 100%;">
   </div>
 </figure>
 
@@ -50,7 +50,10 @@ Composite Load Model," **IET Generation, Transmission & Distribution**, vol. 14,
 Load Model," **Journal of Modern Power Systems and Clean Energy**, vol. 8, no. 5, pp. 1015-1023, 2020. [PDF](http://zixiaoma1991.github.io/files/P8.pdf)
 
 ### Robust Time-Varying Conservation Voltage Reduction Evaluation
-[datadriven](http://zixiaoma1991.github.io/files/F4.png)
+<figure>
+  <img src="http://zixiaoma1991.github.io/files/F4.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F44.png" alt="safelearning" style="width: 48%; float: left;">
+</figure>
 
 Related publications:
 - **Zixiao Ma**, Yingmeng Xiang and Zhaoyu Wang, "Robust Conservation Voltage Reduction Evaluation using Soft Constrained Gradient Analysis," **IEEE Transactions on Power Systems**, vol. 37, no. 6, pp. 4485-4496, 2022. [PDF](http://zixiaoma1991.github.io/files/P5.pdf)
