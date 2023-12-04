@@ -11,17 +11,17 @@ Related publication:
 
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
 [datadriven](http://zixiaoma1991.github.io/files/F2.png)
+- **Zixiao Ma**, Zhaoyu Wang, Yifei Guo, Yuxuan Yuan and Hao Chen, "Nonlinear Multiple Models Adaptive Secondary
+Voltage Control of Microgrids," **IEEE Transactions on Smart Grid**, vol. 12, no. 1, pp. 227-238, 2021. [PDF](http://zixiaoma1991.github.io/files/P3.pdf)
+- Jun Fu, **Zixiao Ma**, Yue Fu and Tianyou Chai, "Hybrid Adaptive Control of Nonlinear Systems with Non-Lipschitz
+Nonlinearities," **Systems & Control Letters**, vol. 156, no. 105012, 2021. [PDF](http://zixiaoma1991.github.io/files/P10.pdf)
 
 - [J11] **Zixiao Ma**, Yingmeng Xiang and Zhaoyu Wang, "Robust Conservation Voltage Reduction Evaluation using Soft Constrained Gradient Analysis," **IEEE Transactions on Power Systems**, vol. 37, no. 6, pp. 4485-4496, 2022. [PDF](http://zixiaoma1991.github.io/files/P5.pdf)
 
 - [J10] **Zixiao Ma**, Bai Cui, Zhaoyu Wang and Dongbo Zhao, "Parameter Reduction of Composite Load Model using Active
 Subspace Method," **IEEE Transactions on Power Systems**, vol. 36, no. 6, pp. 5441-5452, 2021. [PDF](http://zixiaoma1991.github.io/files/P4.pdf)
 
-- [J9] **Zixiao Ma**, Zhaoyu Wang, Yifei Guo, Yuxuan Yuan and Hao Chen, "Nonlinear Multiple Models Adaptive Secondary
-Voltage Control of Microgrids," **IEEE Transactions on Smart Grid**, vol. 12, no. 1, pp. 227-238, 2021. [PDF](http://zixiaoma1991.github.io/files/P3.pdf)
 
-- [J8] Jun Fu, **Zixiao Ma**, Yue Fu and Tianyou Chai, "Hybrid Adaptive Control of Nonlinear Systems with Non-Lipschitz
-Nonlinearities," **Systems & Control Letters**, vol. 156, no. 105012, 2021. [PDF](http://zixiaoma1991.github.io/files/P10.pdf)
 
 - [J7] Jian Xie, **Zixiao Ma**, Kaveh Dehghanpour, Zhaoyu Wang, Yishen Wang, Ruisheng Diao and Di Shi, "Imitation and Transfer Q Learning-based parameter identification for composite load modeling," **IEEE Transactions on Smart Grid**, vol. 12, no. 2, pp. 1674-1684, 2021. [PDF](http://zixiaoma1991.github.io/files/P11.pdf)
 
