@@ -27,7 +27,7 @@ Optimization, Data Analytics, Machine Learning.
 * Research Excellent Award, Iowa State University, 2023
 * Outstanding Reviewer, IEEE Transactions on Power Systems, 2021
   
-# Service and leadership<br>## Technical Committee Officers
+# Service and leadership <br> ## Technical Committee Officers
 * Section Co-Lead of Methodologies Selection of IEEE Standard P3102, IEEE Conservation Voltage
 Reduction (CVR) Task Force, 2020 - present
 
