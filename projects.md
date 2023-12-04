@@ -33,8 +33,8 @@ Nonlinearities," Systems & Control Letters, vol. 156, no. 105012, 2021. [PDF](ht
 
 ### WECC Composite Load Modeling: Order Reduction, Parameter reduction and Parameter Identification.
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
-  <img src="http://zixiaoma1991.github.io/files/F333.png" alt="safelearning" style="width: 48%; float: left;">
+  <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 52%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F333.png" alt="safelearning" style="width: 44%; float: left;">
 </figure>
 ![datadriven](http://zixiaoma1991.github.io/files/F3.png)
 
