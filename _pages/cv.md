@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Northeastern University, 2014
+* M.S. in Control Theory and Engineering, Northeastern University, 2017
+* Ph.D in Electrical and Computer Engineering, Iowa State University, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Postdoctoral Scholar in Electrical and Computer Engineering and Clean Energy Institute, University of Washington, 2023-Present
+    
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Areas Prepared to Teach:** Power Systems, Dynamical Systems, Control Theory, Signal and Systems,
+Optimization, Data Analytics, Machine Learning.
+
+Awards
+======
+* Distinguished Postdoctoral Fellowship, University of Washington, 2023
+* Chinese Government Award for Outstanding Self-financed Students Abroad, 2023
+* Research Excellent Award, Iowa State University, 2023
+* Outstanding Reviewer, IEEE Transactions on Power Systems, 2021
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+Technical Committee Officers
+-----
+
+* Section Co-Lead of Methodologies Selection of IEEE Standard P3102, IEEE Conservation Voltage
+Reduction (CVR) Task Force, 2020 - present
+
+Journal Reviewer
+-----
+* IEEE Transactions on Power Systems
+* IEEE Transaction on Smart Grid
+* IEEE Transaction on Sustainable Energy
+* IEEE Transactions on Power Delivery
+* IEEE Transaction on Energy Conversion
+* IEEE Transactions on Circuits and Systems II: Express Briefs
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems; Applied Energy
+* IET Generation, Transmission & Distribution
+* IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+* Systems & Control Letters
+
+Conference Reviewer
+-----
+* 2023 Power & Energy Society General Meeting (PESGM)
+* 2022 Power & Energy Society General Meeting (PESGM)
+* 2022 IEEE Innovative Smart Grid Technology Conference
+* 2021 Power & Energy Society General Meeting (PESGM)
+* 2021 IEEE Innovative Smart Grid Technology Conference
+* 2020 Power & Energy Society General Meeting (PESGM)
+
+Talks
+======
+* Creating Ground Truth for Validation of CVR Assessment, Commonwealth Edison, May 19, 2023.
+* Energy Savings via Conservation Voltage Reduction: Measurement and Verification Methodologies and Field Results, University of Washington Clean Energy Institute Seminar, February 9, 2023.
+* Conservation Voltage Reduction Measurement and Verification Methodologies and Field Results, Southeast University, November 26, 2022.
+* WECC Modeling and Validation Subcommittee Meeting (virtual), Python-PSSE based tool to identify composite model parameters, November 30, 2021.
+* NERC Load Modeling Working Group Meeting (virtual), Python-PSSE based WECC composite load identification tool, July 27, 2021.
+* Webinar to American Electric Power, WECC Composite Load Model Identification using Python-PSSE, May 18, 2021.
+* Western Electricity Coordinating Council (Salt Lake City, Utah), Mathematical Representation and Dynamic Order Reduction of WECC Composite Load Model, April 3, 2019.
+* GEIRI North America (San Jose, CA), Mathematical Modeling of WECC Composite Load Models, December 4, 2018.
