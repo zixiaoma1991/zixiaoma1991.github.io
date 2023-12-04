@@ -15,6 +15,10 @@ of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transac
 
 - Ruicheng Cheng, Naihao Shi, Zhaoyu Wang and **Zixiao Ma**, "Optimal Power Flow for Integrated Primary-Secondary Distribution Networks with Service Transformers," **IEEE Transactions on Power Systems**, under review.
 
+- **Zixiao Ma** and Baosen Zhang, "Controlling Grid-Connected Inverters under Time-Varying Voltage Constraints," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, under review.
+
+- **Zixiao Ma**, Naihao Shi, Zhaoyu Wang and Wen Fan, "Time-Varying Conservation Voltage Reduction Evaluation with Ground Truth Validation," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, under review.
+
 ## Journal Paper
 
 - [J13] **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
