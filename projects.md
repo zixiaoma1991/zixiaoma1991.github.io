@@ -3,7 +3,7 @@ layout: archive
 permalink: /projects/
 #title: Projects
 ---
-#Projects Involved
+# Projects Involved
 ## Solar-Assisted, Stakeholder-Engaged, Autonomous Restoration with Data Orchestration (Solar-HERO) (04/01/2023-03/31/2026).
 This project is funded by the Department of Energy and National Renewable Energy Laboratory. The ISU PI is Prof. Zhaoyu Wang.
 
