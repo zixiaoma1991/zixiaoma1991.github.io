@@ -30,7 +30,7 @@ Nonlinearities," **Systems & Control Letters**, vol. 156, no. 105012, 2021. [PDF
   <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
   <img src="http://zixiaoma1991.github.io/files/F333.png" alt="safelearning" style="width: 48%; float: left;">
 </figure>
-！[datadriven](http://zixiaoma1991.github.io/files/F3.png)
+![datadriven](http://zixiaoma1991.github.io/files/F3.png)
 
 Related publications:
 - **Zixiao Ma**, Bai Cui, Zhaoyu Wang and Dongbo Zhao, "Parameter Reduction of Composite Load Model using Active
