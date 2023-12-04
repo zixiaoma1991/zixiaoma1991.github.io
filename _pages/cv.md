@@ -34,11 +34,11 @@ Awards
 Service and leadership
 ======
 Technical Committee Officers
------
+-----<br>
 * Section Co-Lead of Methodologies Selection of IEEE Standard P3102, IEEE Conservation Voltage
 Reduction (CVR) Task Force, 2020 - present
 Journal Reviewer
------
+-----<br>
 * IEEE Transactions on Power Systems
 * IEEE Transaction on Smart Grid
 * IEEE Transaction on Sustainable Energy
@@ -50,7 +50,7 @@ Journal Reviewer
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 * Systems & Control Letters
 Conference Reviewer
------
+-----<br>
 * 2023 Power & Energy Society General Meeting (PESGM)
 * 2022 Power & Energy Society General Meeting (PESGM)
 * 2022 IEEE Innovative Smart Grid Technology Conference
