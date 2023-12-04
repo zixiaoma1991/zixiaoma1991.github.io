@@ -4,26 +4,20 @@ permalink: /projects/
 title: Research Projects
 ---
 ### Safe Imitation Learning Control for Inverter-based Microgrids in EMT Timescale.
-| ![safelearning](http://zixiaoma1991.github.io/files/F1.png)| ![safelearning](http://zixiaoma1991.github.io/files/F11.png)|
-|:-----------------------:|:-----------------------:|
-| Caption for Image 1     | Caption for Image 2     |
+<figure>
+  <img src="http://zixiaoma1991.github.io/files/F1.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F11.png" alt="safelearning" style="width: 48%; float: left;">
+</figure>
 
 Related publications:
 - **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
 - **Zixiao Ma**, Qianzhi Zhang and Zhaoyu Wang, "Safe and Stable Secondary Voltage Control of Microgrids Based on Explicit Neural Networks," **IEEE Transactions on Smart Grid**, vol. 14, no. 5, pp. 3375-3387, 2023. [PDF](http://zixiaoma1991.github.io/files/P1.pdf)
 
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
-| ![datadriven](http://zixiaoma1991.github.io/files/F22.png)| ![safelearning](http://zixiaoma1991.github.io/files/F2.png)|
-|:-----------------------:|:-----------------------:|
-| Caption for Image 1     | Caption for Image 2     |
 <figure>
   <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
   <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 48%; float: left;">
-  <figcaption>Caption for Image 1</figcaption>
-  <figcaption>Caption for Image 2</figcaption>
 </figure>
-
-
 
 Related publications:
 - **Zixiao Ma**, Zhaoyu Wang, Yifei Guo, Yuxuan Yuan and Hao Chen, "Nonlinear Multiple Models Adaptive Secondary
@@ -32,17 +26,21 @@ Voltage Control of Microgrids," **IEEE Transactions on Smart Grid**, vol. 12, no
 Nonlinearities," **Systems & Control Letters**, vol. 156, no. 105012, 2021. [PDF](http://zixiaoma1991.github.io/files/P10.pdf)
 
 ### WECC Composite Load Modeling: Order Reduction, Parameter reduction and Parameter Identification.
-[datadriven](http://zixiaoma1991.github.io/files/F3.png)
+<figure>
+  <img src="http://zixiaoma1991.github.io/files/F33.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F333.png" alt="safelearning" style="width: 48%; float: left;">
+</figure>
+！[datadriven](http://zixiaoma1991.github.io/files/F3.png)
 
 Related publications:
-- [J10] **Zixiao Ma**, Bai Cui, Zhaoyu Wang and Dongbo Zhao, "Parameter Reduction of Composite Load Model using Active
+- **Zixiao Ma**, Bai Cui, Zhaoyu Wang and Dongbo Zhao, "Parameter Reduction of Composite Load Model using Active
 Subspace Method," **IEEE Transactions on Power Systems**, vol. 36, no. 6, pp. 5441-5452, 2021. [PDF](http://zixiaoma1991.github.io/files/P4.pdf)
-- [J7] Jian Xie, **Zixiao Ma**, Kaveh Dehghanpour, Zhaoyu Wang, Yishen Wang, Ruisheng Diao and Di Shi, "Imitation and Transfer Q Learning-based parameter identification for composite load modeling," **IEEE Transactions on Smart Grid**, vol. 12, no. 2, pp. 1674-1684, 2021. [PDF](http://zixiaoma1991.github.io/files/P11.pdf)
-- [J5] Fankun Bu, **Zixiao Ma**, Yuxuan Yuan and Zhaoyu Wang, "WECC Composite Load Model Parameter Identification
+- Jian Xie, **Zixiao Ma**, Kaveh Dehghanpour, Zhaoyu Wang, Yishen Wang, Ruisheng Diao and Di Shi, "Imitation and Transfer Q Learning-based parameter identification for composite load modeling," **IEEE Transactions on Smart Grid**, vol. 12, no. 2, pp. 1674-1684, 2021. [PDF](http://zixiaoma1991.github.io/files/P11.pdf)
+- Fankun Bu, **Zixiao Ma**, Yuxuan Yuan and Zhaoyu Wang, "WECC Composite Load Model Parameter Identification
 using Evolutionary Deep Reinforcement Learning," **IEEE Transactions on Smart Grid**, vol. 11, no.6, pp. 5407-5417, 2020. [PDF](http://zixiaoma1991.github.io/files/P7.pdf)
-- [J4] **Zixiao Ma**, Zhaoyu Wang, Dongbo Zhao and Bai Cui, "High-Fidelity Large-signal Order Reduction Approach for
+- **Zixiao Ma**, Zhaoyu Wang, Dongbo Zhao and Bai Cui, "High-Fidelity Large-signal Order Reduction Approach for
 Composite Load Model," **IET Generation, Transmission & Distribution**, vol. 14, no. 21, pp. 4888-4897, 2020. [PDF](http://zixiaoma1991.github.io/files/P13.pdf)
-- [J3] **Zixiao Ma**, Zhaoyu Wang, Yishen Wang, Ruisheng Diao and Di Shi, "Mathematical Representation of WECC Composite
+- **Zixiao Ma**, Zhaoyu Wang, Yishen Wang, Ruisheng Diao and Di Shi, "Mathematical Representation of WECC Composite
 Load Model," **Journal of Modern Power Systems and Clean Energy**, vol. 8, no. 5, pp. 1015-1023, 2020. [PDF](http://zixiaoma1991.github.io/files/P8.pdf)
 
 ### Robust Time-Varying Conservation Voltage Reduction Evaluation
