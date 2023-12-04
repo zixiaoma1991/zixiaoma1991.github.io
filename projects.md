@@ -13,9 +13,16 @@ Related publications:
 - **Zixiao Ma**, Qianzhi Zhang and Zhaoyu Wang, "Safe and Stable Secondary Voltage Control of Microgrids Based on Explicit Neural Networks," **IEEE Transactions on Smart Grid**, vol. 14, no. 5, pp. 3375-3387, 2023. [PDF](http://zixiaoma1991.github.io/files/P1.pdf)
 
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
-| [datadriven](http://zixiaoma1991.github.io/files/F22.png)| ![safelearning](http://zixiaoma1991.github.io/files/F2.png)|
+| ![datadriven](http://zixiaoma1991.github.io/files/F22.png)| ![safelearning](http://zixiaoma1991.github.io/files/F2.png)|
 |:-----------------------:|:-----------------------:|
 | Caption for Image 1     | Caption for Image 2     |
+<figure>
+  <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 48%; float: left;">
+  <figcaption>Caption for Image 1</figcaption>
+  <figcaption>Caption for Image 2</figcaption>
+</figure>
+
 
 
 Related publications:
