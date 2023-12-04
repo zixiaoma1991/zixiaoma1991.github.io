@@ -1,15 +1,27 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+layout: archive
+permalink: /publications/
+title: Publications
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Lastest Update: Dec 3rd 2023
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Journal Paper
+
+- **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," IEEE Transactions on Smart Grid, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
+
+- **Zixiao Ma**, Qianzhi Zhang and Zhaoyu Wang, "Safe and Stable Secondary Voltage Control of Microgrids Based on Explicit Neural Networks," IEEE Transactions on Smart Grid, vol. 14, no. 5, pp. 3375-3387, Sept. 2023. [PDF](http://zixiaoma1991.github.io/files/P1.pdf)
+
+- **Zixiao Ma**, Yingmeng Xiang and Zhaoyu Wang, "Robust Conservation Voltage Reduction Evaluation using Soft Constrained
+Gradient Analysis," IEEE Transactions on Power Systems, vol. 37, no. 6, pp. 4485-4496, 2022. [PDF](http://zixiaoma1991.github.io/files/P5.pdf)
+
+- **Zixiao Ma**, Bai Cui, Zhaoyu Wang and Dongbo Zhao, "Parameter Reduction of Composite Load Model using Active
+Subspace Method," IEEE Transactions on Power Systems, vol. 36, no. 6, pp. 5441-5452, Nov. 2021. [PDF](http://zixiaoma1991.github.io/files/P4.pdf)
+
+- **Zixiao Ma**, Zhaoyu Wang, Yifei Guo, Yuxuan Yuan and Hao Chen, "Nonlinear Multiple Models Adaptive Secondary
+Voltage Control of Microgrids," IEEE Transactions on Smart Grid, vol. 12, no. 1, pp. 227-238, 2021. [PDF](http://zixiaoma1991.github.io/files/P3.pdf)
+
+
+## Working Paper
+
+
