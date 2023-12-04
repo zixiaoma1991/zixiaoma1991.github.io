@@ -14,6 +14,6 @@ My research interests include modeling, control, optimization and machine learni
 
 Updates
 ===
--**June 2023:** Join UW ECE Department and CEI as a postdoctoral scholar.
+- **June 2023:** Join UW ECE Department and CEI as a postdoctoral scholar.
 
--**May 2023:** Obtain Ph.D. degree from ISU.
+- **May 2023:** Obtain Ph.D. degree from ISU.
