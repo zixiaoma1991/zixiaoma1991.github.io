@@ -45,7 +45,7 @@ Nonlinearities," Systems & Control Letters, vol. 156, no. 105012, 2021. [PDF](ht
   </div>
 </figure>
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F3.png" alt="datadriven" style="width: 90%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F3.png" alt="datadriven" style="width: 90%; float: left; margin-right: 0%;">
 </figure>
 
 Related publications:
