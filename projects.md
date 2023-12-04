@@ -5,9 +5,15 @@ title: Research Projects
 ---
 ### Safe Imitation Learning Control for Inverter-based Microgrids in EMT Timescale.
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F1.png" alt="datadriven" style="width: 48%; float: left; margin-right: 1%;">
-  <img src="http://zixiaoma1991.github.io/files/F11.png" alt="safelearning" style="width: 48%; float: left;">
+  <div style="width: 48%; float: left; margin-right: 1%;">
+    <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 100%; margin-bottom: 1%;">
+    <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 100%;">
+  </div>
+  <div style="width: 48%; float: left;">
+    <img src="F222.png" alt="thirdimage" style="width: 100%;">
+  </div>
 </figure>
+
 
 Related publications:
 - **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
