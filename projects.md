@@ -4,14 +4,19 @@ permalink: /projects/
 title: Research Projects
 ---
 ### Safe Imitation Learning Control for Inverter-based Microgrids in EMT Timescale.
-![safelearning](http://zixiaoma1991.github.io/files/F1.png)![safelearning](http://zixiaoma1991.github.io/files/F11.png)
+| ![safelearning](http://zixiaoma1991.github.io/files/F1.png)| ![safelearning](http://zixiaoma1991.github.io/files/F11.png)|
+|:-----------------------:|:-----------------------:|
+| Caption for Image 1     | Caption for Image 2     |
 
 Related publications:
 - **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
 - **Zixiao Ma**, Qianzhi Zhang and Zhaoyu Wang, "Safe and Stable Secondary Voltage Control of Microgrids Based on Explicit Neural Networks," **IEEE Transactions on Smart Grid**, vol. 14, no. 5, pp. 3375-3387, 2023. [PDF](http://zixiaoma1991.github.io/files/P1.pdf)
 
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
-[datadriven](http://zixiaoma1991.github.io/files/F2.png)
+| [datadriven](http://zixiaoma1991.github.io/files/F22.png)| ![safelearning](http://zixiaoma1991.github.io/files/F2.png)|
+|:-----------------------:|:-----------------------:|
+| Caption for Image 1     | Caption for Image 2     |
+
 
 Related publications:
 - **Zixiao Ma**, Zhaoyu Wang, Yifei Guo, Yuxuan Yuan and Hao Chen, "Nonlinear Multiple Models Adaptive Secondary
