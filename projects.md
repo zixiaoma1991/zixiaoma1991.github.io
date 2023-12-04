@@ -21,7 +21,7 @@ Related publications:
 
 ### Data-Driven Secondary Control of Microgrids using Multiple Models Adaptive Control and Neural Networks.
 <figure>
-  <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 45%; float: left; margin-right: 1%;">
+  <img src="http://zixiaoma1991.github.io/files/F22.png" alt="datadriven" style="width: 45%; float: left; margin-right: 10%;">
   <img src="http://zixiaoma1991.github.io/files/F2.png" alt="safelearning" style="width: 45%; float: left;">
 </figure>
 
