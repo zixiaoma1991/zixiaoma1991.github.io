@@ -33,13 +33,10 @@ Awards
   
 Service and leadership
 ======
-
 Technical Committee Officers
 -----
-
 * Section Co-Lead of Methodologies Selection of IEEE Standard P3102, IEEE Conservation Voltage
 Reduction (CVR) Task Force, 2020 - present
-
 Journal Reviewer
 -----
 * IEEE Transactions on Power Systems
@@ -52,7 +49,6 @@ Journal Reviewer
 * IET Generation, Transmission & Distribution
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 * Systems & Control Letters
-
 Conference Reviewer
 -----
 * 2023 Power & Energy Society General Meeting (PESGM)
