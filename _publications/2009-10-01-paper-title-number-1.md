@@ -8,8 +8,6 @@ Lastest Update: Dec 3rd 2023
 
 ## Working Paper
 
-- **Zixiao Ma**, Zhaoyu Wang, Yuxuan Yuan and Tianqi Hong, "Singular Perturbation-based Large-Signal Order Reduction
-of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, under review.
 
 - Liming Liu, Naihao Shi, Dingwei Wang, **Zixiao Ma**, Zhaoyu Wang, Matthew J. Reno, and Joseph A. Azzolini, "Voltage Calculations in Secondary Distribution Networks via Physics-Inspired Neural Network Using Smart Meter Data," **IEEE Transactions on Smart Grid**, under review.
 
@@ -20,6 +18,9 @@ of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transac
 - **Zixiao Ma**, Naihao Shi, Zhaoyu Wang and Wen Fan, "Time-Varying Conservation Voltage Reduction Evaluation with Ground Truth Validation," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, under review.
 
 ## Journal Paper
+
+- [J14] **Zixiao Ma**, Zhaoyu Wang, Yuxuan Yuan and Tianqi Hong, "Singular Perturbation-based Large-Signal Order Reduction
+of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, accepted for publication.
 
 - [J13] **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
 
