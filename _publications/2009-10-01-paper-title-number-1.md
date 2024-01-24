@@ -4,7 +4,6 @@ permalink: /publications/
 title: Publications
 ---
 
-Lastest Update: Jan 24th 2024
 
 ## Working Paper
 
