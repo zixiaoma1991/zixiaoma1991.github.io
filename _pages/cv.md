@@ -22,6 +22,7 @@ redirect_from:
 Optimization, Data Analytics, Machine Learning.
 
 # Awards
+* Rising Stars in Cyber-Physical Systems, The University of Virginia, 2024
 * Distinguished Postdoctoral Fellowship, University of Washington, 2023
 * Chinese Government Award for Outstanding Self-financed Students Abroad, 2023
 * Research Excellent Award, Iowa State University, 2023
@@ -45,6 +46,7 @@ Reduction (CVR) Task Force, 2020 - present
 * Systems & Control Letters
 
 ## Conference Reviewer
+* 2024 Power & Energy Society General Meeting (PESGM)
 * 2023 Power & Energy Society General Meeting (PESGM)
 * 2022 Power & Energy Society General Meeting (PESGM)
 * 2022 IEEE Innovative Smart Grid Technology Conference
@@ -53,9 +55,13 @@ Reduction (CVR) Task Force, 2020 - present
 * 2020 Power & Energy Society General Meeting (PESGM)
 
 # Talks
-* Creating Ground Truth for Validation of CVR Assessment, Commonwealth Edison, May 19, 2023.
+
+*	Advancing reliable inverter-based power systems for future generations, University of Washington CEI Distinguished postdoc seminar, April 18, 2024.
+*	Towards next generation reliable inverter-based power systems, Montana State University, March 25, 2024.
+*	Towards next generation reliable inverter-based power systems, Binghamton University, March 15, 2024.
+*	Towards next generation reliable inverter-based power systems, University of Maine, March 4, 2024.
+*	Towards next generation reliable inverter-based power systems, Southern Illinois University, Carbondale, February 15, 2024.
 * Energy Savings via Conservation Voltage Reduction: Measurement and Verification Methodologies and Field Results, University of Washington Clean Energy Institute Seminar, February 9, 2023.
-* Conservation Voltage Reduction Measurement and Verification Methodologies and Field Results, Southeast University, November 26, 2022.
 * WECC Modeling and Validation Subcommittee Meeting (virtual), Python-PSSE based tool to identify composite model parameters, November 30, 2021.
 * NERC Load Modeling Working Group Meeting (virtual), Python-PSSE based WECC composite load identification tool, July 27, 2021.
 * Webinar to American Electric Power, WECC Composite Load Model Identification using Python-PSSE, May 18, 2021.
