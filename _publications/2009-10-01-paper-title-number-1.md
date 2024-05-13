@@ -15,7 +15,7 @@ title: Publications
 ## Journal Paper
 
 - [J15] Liming Liu, Naihao Shi, Dingwei Wang, **Zixiao Ma**, Zhaoyu Wang, Matthew J. Reno, and Joseph A. Azzolini, "Voltage Calculations in Secondary Distribution Networks via Physics-Inspired Neural Network Using Smart Meter Data," **IEEE Transactions on Smart Grid**, early access, 2024. [PDF](http://zixiaoma1991.github.io/files/P15.pdf)
-- 
+  
 - [J14] **Zixiao Ma**, Zhaoyu Wang, Yuxuan Yuan and Tianqi Hong, "Singular Perturbation-based Large-Signal Order Reduction
 of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, early access, 2024. [PDF](http://zixiaoma1991.github.io/files/P14.pdf)
 
