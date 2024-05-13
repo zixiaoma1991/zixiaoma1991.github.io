@@ -61,6 +61,7 @@ Reduction (CVR) Task Force, 2020 - present
 *	Towards next generation reliable inverter-based power systems, Binghamton University, March 15, 2024.
 *	Towards next generation reliable inverter-based power systems, University of Maine, March 4, 2024.
 *	Towards next generation reliable inverter-based power systems, Southern Illinois University, Carbondale, February 15, 2024.
+*	Creating Ground Truth for Validation of CVR Assessment, Commonwealth Edison, May 19, 2023. 
 * Energy Savings via Conservation Voltage Reduction: Measurement and Verification Methodologies and Field Results, University of Washington Clean Energy Institute Seminar, February 9, 2023.
 * WECC Modeling and Validation Subcommittee Meeting (virtual), Python-PSSE based tool to identify composite model parameters, November 30, 2021.
 * NERC Load Modeling Working Group Meeting (virtual), Python-PSSE based WECC composite load identification tool, July 27, 2021.
