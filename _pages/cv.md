@@ -22,7 +22,7 @@ redirect_from:
 Optimization, Data Analytics, Machine Learning.
 
 # Awards
-* Rising Stars in Cyber-Physical Systems, The University of Virginia, 2024
+* Rising Stars in Cyber-Physical Systems, University of Virginia, 2024
 * Distinguished Postdoctoral Fellowship, University of Washington, 2023
 * Chinese Government Award for Outstanding Self-financed Students Abroad, 2023
 * Research Excellent Award, Iowa State University, 2023
