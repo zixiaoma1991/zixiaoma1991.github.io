@@ -8,20 +8,18 @@ title: Publications
 ## Working Paper
 
 
-- Liming Liu, Naihao Shi, Dingwei Wang, **Zixiao Ma**, Zhaoyu Wang, Matthew J. Reno, and Joseph A. Azzolini, "Voltage Calculations in Secondary Distribution Networks via Physics-Inspired Neural Network Using Smart Meter Data," **IEEE Transactions on Smart Grid**, under review.
 
 - Ruicheng Cheng, Naihao Shi, Zhaoyu Wang and **Zixiao Ma**, "Optimal Power Flow for Integrated Primary-Secondary Distribution Networks with Service Transformers," **IEEE Transactions on Power Systems**, under review.
 
-- **Zixiao Ma** and Baosen Zhang, "Controlling Grid-Connected Inverters under Time-Varying Voltage Constraints," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, under review.
-
-- **Zixiao Ma**, Naihao Shi, Zhaoyu Wang and Wen Fan, "Time-Varying Conservation Voltage Reduction Evaluation with Ground Truth Validation," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, under review.
 
 ## Journal Paper
 
+- [J15] Liming Liu, Naihao Shi, Dingwei Wang, **Zixiao Ma**, Zhaoyu Wang, Matthew J. Reno, and Joseph A. Azzolini, "Voltage Calculations in Secondary Distribution Networks via Physics-Inspired Neural Network Using Smart Meter Data," **IEEE Transactions on Smart Grid**, early access, 2024. [PDF](http://zixiaoma1991.github.io/files/P15.pdf)
+- 
 - [J14] **Zixiao Ma**, Zhaoyu Wang, Yuxuan Yuan and Tianqi Hong, "Singular Perturbation-based Large-Signal Order Reduction
-of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, accepted for publication.
+of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, early access, 2024. [PDF](http://zixiaoma1991.github.io/files/P14.pdf)
 
-- [J13] **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, early access, 2023. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
+- [J13] **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 1376-1387, Mar. 2024. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
 
 - [J12] **Zixiao Ma**, Qianzhi Zhang and Zhaoyu Wang, "Safe and Stable Secondary Voltage Control of Microgrids Based on Explicit Neural Networks," **IEEE Transactions on Smart Grid**, vol. 14, no. 5, pp. 3375-3387, 2023. [PDF](http://zixiaoma1991.github.io/files/P1.pdf)
 
@@ -56,7 +54,11 @@ Unstable Modes," **Asian Journal of Control**, vol. 20, no. 1, pp. 608-612, 2018
 - [J1] Taifang Li, Jun Fu and **Zixiao Ma**, "Improved Event-Triggered Control for a Class of Continuous-Time Switched
 Linear Systems," **IET Control Theory & Application**, vol. 12, no. 7, pp. 1000-1005, 2018. [PDF](http://zixiaoma1991.github.io/files/P9.pdf)
 
+## Conference Paper
 
+- [C1] **Zixiao Ma** and Baosen Zhang, "Controlling Grid-Connected Inverters under Time-Varying Voltage Constraints," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, Jul. 22-25, 2024. Acceptance rate: 50% 
+
+- [C2] **Zixiao Ma**, Naihao Shi, Zhaoyu Wang and Wen Fan, "Time-Varying Conservation Voltage Reduction Evaluation with Ground Truth Validation," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, Jul. 22-25, 2024. Acceptance rate: 50%  
 
 
 
