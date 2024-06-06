@@ -22,11 +22,11 @@ redirect_from:
 Optimization, Data Analytics, Machine Learning.
 
 # Awards
-* Rising Stars in Cyber-Physical Systems, University of Virginia, 2024
-* Distinguished Postdoctoral Fellowship, University of Washington, 2023
-* Chinese Government Award for Outstanding Self-financed Students Abroad, 2022
-* Research Excellent Award, Iowa State University, 2023
-* Outstanding Reviewer, IEEE Transactions on Power Systems, 2021
+* 2024 Rising Stars in Cyber-Physical Systems, University of Virginia
+* 2023 Distinguished Postdoctoral Fellowship, University of Washington
+* 2023 Research Excellent Award, Iowa State University
+* 2022 Chinese Government Award for Outstanding Self-financed Students Abroad
+* 2021 Outstanding Reviewer, IEEE Transactions on Power Systems
   
 # Service and leadership <br> 
 ## Technical Committee Officers
