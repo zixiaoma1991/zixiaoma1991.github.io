@@ -24,7 +24,7 @@ I am seeking self-motivated Ph.D. students to join our group at SUNY Binghamton 
 - Machine Learning
 - Optimization Techniques
   
-If you are passionate about advancing research in these fields, please send your resume to zixiaoma@uw.edu. Ensure the subject line of your email reads “Prospective Student”. Thank you!
+If you are passionate about advancing research in these fields, please send your resume to zma10@binghamton.edu. Ensure the subject line of your email reads “PhD Application + Name”. Thank you!
 
 Updates
 ===
