@@ -28,6 +28,8 @@ If you are passionate about advancing research in these fields, please send your
 
 Updates
 ===
+- **July 2024:** Honored to receive IEEE Power and Energy Society (PES) General Meeting Best Paper Award.
+
 - **May 2024:** Honored to be selected as a [Rising Star in Cyber-Physical Systems (CPS)](https://risingstars.linklab.virginia.edu/2024/).
 
 - **June 2023:** Join UW ECE Department and CEI as a postdoctoral scholar.
