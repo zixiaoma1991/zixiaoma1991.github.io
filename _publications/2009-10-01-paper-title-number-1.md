@@ -58,7 +58,7 @@ Linear Systems," **IET Control Theory & Application**, vol. 12, no. 7, pp. 1000-
 
 - [C1] **Zixiao Ma** and Baosen Zhang, "Controlling Grid-Connected Inverters under Time-Varying Voltage Constraints," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, Jul. 22-25, 2024. Acceptance rate: 50% 
 
-- [C2] **Zixiao Ma**, Naihao Shi, Zhaoyu Wang and Wen Fan, "Time-Varying Conservation Voltage Reduction Evaluation with Ground Truth Validation," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, Jul. 22-25, 2024. (Best Paper Award) Acceptance rate: 50%  
+- [C2] **Zixiao Ma**, Naihao Shi, Zhaoyu Wang and Wen Fan, "Time-Varying Conservation Voltage Reduction Evaluation with Ground Truth Validation," 2024 IEEE Power & Energy Society General Meeting, Seattle, WA, USA, Jul. 22-25, 2024. (**Best Paper Award**) Acceptance rate: 50%  
 
 
 
