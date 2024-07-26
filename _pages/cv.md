@@ -22,6 +22,7 @@ redirect_from:
 Optimization, Data Analytics, Machine Learning.
 
 # Awards
+* 2024 IEEE Power and Energy Society (PES) General Meeting Best Paper Award, IEEE PES
 * 2024 Rising Stars in Cyber-Physical Systems, University of Virginia
 * 2023 Distinguished Postdoctoral Fellowship, University of Washington
 * 2023 Research Excellent Award, Iowa State University
