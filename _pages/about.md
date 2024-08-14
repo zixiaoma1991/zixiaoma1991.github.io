@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a distinguished postdoctoral fellow at the University of Washington with affiliation in the Department of Electrical and Computer Engineering and the Clean Energy Institute, hosted by [Baosen Zhang](https://zhangbaosen.github.io/). I obtained my Ph.D. in Electrical and Computer Engineering from Iowa State University, advised by [Zhaoyu Wang](https://wzy.ece.iastate.edu/).
 
-My research interests include modeling, control, optimization and machine learning for power systems. Here is my [CV](https://zixiaoma1991.github.io/files/CV.pdf).
+I am an assistant professor in the Department of Electrical and Computer Engineering at SUNY Binghamton University. Before that, I was a distinguished postdoctoral fellow at the University of Washington affiliated with the Department of Electrical and Computer Engineering and the Clean Energy Institute, hosted by [Baosen Zhang](https://zhangbaosen.github.io/). I obtained my Ph.D. in Electrical and Computer Engineering from Iowa State University, advised by [Zhaoyu Wang](https://wzy.ece.iastate.edu/).
 
-I am excited to join the Department of Electrical and Computer Engineering at SUNY Binghamton University as an Assistant Professor starting Fall 2024.
+My research interests include modeling, control, optimization and machine learning for power systems with high penetration of renewable energy resources. Here is my [CV](https://zixiaoma1991.github.io/files/CV.pdf).
 
 Openings
 ===
 
-I am seeking self-motivated Ph.D. students to join our group at SUNY Binghamton University, with opportunities starting in Fall 2024, Spring 2025, or Fall 2025. We are particularly interested in students with backgrounds or strong interest in the following areas:
+I am seeking self-motivated Ph.D. students to join our group at SUNY Binghamton University, with opportunities starting in Spring 2025 or Fall 2025. We are particularly interested in students with backgrounds or strong interest in the following areas:
 
 - Renewable Energy Systems and Microgrids
 - Control Theory and Engineering
@@ -28,6 +27,8 @@ If you are passionate about advancing research in these fields, please send your
 
 Updates
 ===
+- **August 2024:** Join SUNY Binghamton University ECE Department as an assistant professor.
+- 
 - **July 2024:** Honored to receive IEEE Power and Energy Society (PES) General Meeting Best Paper Award.
 
 - **May 2024:** Honored to be selected as a [Rising Star in Cyber-Physical Systems (CPS)](https://risingstars.linklab.virginia.edu/2024/).
