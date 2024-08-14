@@ -28,7 +28,7 @@ If you are passionate about advancing research in these fields, please send your
 Updates
 ===
 - **August 2024:** Join SUNY Binghamton University ECE Department as an assistant professor.
-- 
+  
 - **July 2024:** Honored to receive IEEE Power and Energy Society (PES) General Meeting Best Paper Award.
 
 - **May 2024:** Honored to be selected as a [Rising Star in Cyber-Physical Systems (CPS)](https://risingstars.linklab.virginia.edu/2024/).
