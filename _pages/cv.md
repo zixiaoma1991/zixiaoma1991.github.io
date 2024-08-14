@@ -15,11 +15,11 @@ redirect_from:
 * Ph.D in Electrical and Computer Engineering, Iowa State University, 2023
 
 # Work experience
-* Postdoctoral Scholar in Electrical and Computer Engineering and Clean Energy Institute, University of Washington, 2023-Present
+* Assistant Professor in Electrical and Computer Engineering, SUNY Binghamton University, 2024-present.
+* Postdoctoral Scholar in Electrical and Computer Engineering and Clean Energy Institute, University of Washington, 2023-2024
     
 # Teaching
-**Areas Prepared to Teach:** Power Systems, Dynamical Systems, Control Theory, Signal and Systems,
-Optimization, Data Analytics, Machine Learning.
+* EECE 580D Renewable Energy System and Microgrids
 
 # Awards
 * 2024 IEEE Power and Energy Society (PES) General Meeting Best Paper Award, IEEE PES
