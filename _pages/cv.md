@@ -19,7 +19,7 @@ redirect_from:
 * Postdoctoral Scholar in Electrical and Computer Engineering and Clean Energy Institute, University of Washington, 2023-2024
     
 # Teaching
-* EECE 580D Renewable Energy System and Microgrids
+* EECE 580D Renewable Energy System and Microgrids, Fall 2024
 
 # Awards
 * 2024 IEEE Power and Energy Society (PES) General Meeting Best Paper Award, IEEE PES
