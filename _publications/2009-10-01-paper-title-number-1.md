@@ -8,16 +8,18 @@ title: Publications
 ## Working Paper
 
 
-
+- Naihao Shi, Rui Cheng, **Zixiao Ma** and Zhaoyu Wang, “Hierarchical Voltage Control for Integrated Primary-
+Secondary Distribution Systems: A Leader-Follower Game”, **IEEE Transactions on Smart Grid**,under
+review.
 - Ruicheng Cheng, Naihao Shi, Zhaoyu Wang and **Zixiao Ma**, "Optimal Power Flow for Integrated Primary-Secondary Distribution Networks with Service Transformers," **IEEE Transactions on Power Systems**, under review.
 
 
 ## Journal Paper
 
-- [J15] Liming Liu, Naihao Shi, Dingwei Wang, **Zixiao Ma**, Zhaoyu Wang, Matthew J. Reno, and Joseph A. Azzolini, "Voltage Calculations in Secondary Distribution Networks via Physics-Inspired Neural Network Using Smart Meter Data," **IEEE Transactions on Smart Grid**, early access, 2024. [PDF](http://zixiaoma1991.github.io/files/P15.pdf)
+- [J15] Liming Liu, Naihao Shi, Dingwei Wang, **Zixiao Ma**, Zhaoyu Wang, Matthew J. Reno, and Joseph A. Azzolini, "Voltage Calculations in Secondary Distribution Networks via Physics-Inspired Neural Network Using Smart Meter Data," **IEEE Transactions on Smart Grid**, vol. 15, no. 5, pp. 5205-5218, 2024. [PDF](http://zixiaoma1991.github.io/files/P15.pdf)
   
 - [J14] **Zixiao Ma**, Zhaoyu Wang, Yuxuan Yuan and Tianqi Hong, "Singular Perturbation-based Large-Signal Order Reduction
-of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, early access, 2024. [PDF](http://zixiaoma1991.github.io/files/P14.pdf)
+of Microgrids for Stability and Accuracy Synthesis with Control," **IEEE Transactions on Smart Grid**, vol. 15, no. 4, pp. 3361-3374, 2024. [PDF](http://zixiaoma1991.github.io/files/P14.pdf)
 
 - [J13] **Zixiao Ma**, Zhaoyu Wang and Rui Cheng, "Analytical Large-Signal Modeling of Inverter-based Microgrids With Koopman Operator Theory for Autonomous Control," **IEEE Transactions on Smart Grid**, vol. 15, no. 2, pp. 1376-1387, Mar. 2024. [PDF](http://zixiaoma1991.github.io/files/P2.pdf)
 
