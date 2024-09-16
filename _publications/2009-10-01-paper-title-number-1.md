@@ -11,7 +11,7 @@ title: Publications
 - Naihao Shi, Rui Cheng, **Zixiao Ma** and Zhaoyu Wang, “Hierarchical Voltage Control for Integrated Primary-
 Secondary Distribution Systems: A Leader-Follower Game”, **IEEE Transactions on Smart Grid**,under
 review.
-- Ruicheng Cheng, Naihao Shi, Zhaoyu Wang and **Zixiao Ma**, "Optimal Power Flow for Integrated Primary-Secondary Distribution Networks with Service Transformers," **IEEE Transactions on Power Systems**, under review.
+- Rui Cheng, Naihao Shi, Zhaoyu Wang and **Zixiao Ma**, "Optimal Power Flow for Integrated Primary-Secondary Distribution Networks with Service Transformers," **IEEE Transactions on Power Systems**, under review.
 
 
 ## Journal Paper
