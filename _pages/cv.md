@@ -56,6 +56,7 @@ Reduction (CVR) Task Force, 2020 - present
 
 # Talks
 
+* Safe Learning Control of Inverter-based Power Systems with Stability and Safety Constraints, INFORMS Annual Meeting, October 20, 2024.
 *	Advancing reliable inverter-based power systems for future generations, University of Washington CEI Distinguished postdoc seminar, April 18, 2024.
 *	Towards next generation reliable inverter-based power systems, Montana State University, March 25, 2024.
 *	Towards next generation reliable inverter-based power systems, Binghamton University, March 15, 2024.
