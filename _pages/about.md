@@ -16,7 +16,7 @@ My research interests include modeling, control, optimization and machine learni
 Openings
 ===
 
-I am seeking self-motivated Ph.D. students to join our group at SUNY Binghamton University, with opportunities starting in Spring 2025 or Fall 2025. We are particularly interested in students with backgrounds or strong interest in the following areas:
+I am seeking self-motivated Ph.D. students to join our group at SUNY Binghamton University, with opportunities starting in Fall 2025 or Spring 2026. We are particularly interested in students with backgrounds or strong interest in the following areas:
 
 - Renewable Energy Systems and Microgrids
 - Control Theory and Engineering
