@@ -18,9 +18,6 @@ redirect_from:
 * Assistant Professor in Electrical and Computer Engineering, SUNY Binghamton University, 2024-present.
 * Postdoctoral Scholar in Electrical and Computer Engineering and Clean Energy Institute, University of Washington, 2023-2024
     
-# Teaching
-* EECE 580D Renewable Energy System and Microgrids, Fall 2024
-
 # Awards
 * 2024 IEEE Power and Energy Society (PES) General Meeting Best Paper Award, IEEE PES
 * 2024 Rising Stars in Cyber-Physical Systems, University of Virginia
