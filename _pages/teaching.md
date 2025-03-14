@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 # Teaching Experience
-* EECE 580D Renewable Energy System and Microgrids, Spring 2025
+* EECE 480B/580D Renewable Energy System and Microgrids, Spring 2025
