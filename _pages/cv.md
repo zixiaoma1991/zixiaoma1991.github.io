@@ -19,6 +19,8 @@ redirect_from:
 * Postdoctoral Scholar in Electrical and Computer Engineering and Clean Energy Institute, University of Washington, 2023-2024
     
 # Awards
+* 2025 Provost Awards for Research Grants: A Sustainable World, SUNY Binghamton University
+* 2025 IEEE Power and Energy Society Technical Committee Prize Paper Award
 * 2024 IEEE Power and Energy Society (PES) General Meeting Best Paper Award, IEEE PES
 * 2024 Rising Stars in Cyber-Physical Systems, University of Virginia
 * 2023 Distinguished Postdoctoral Fellowship, University of Washington
