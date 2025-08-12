@@ -18,15 +18,23 @@ Openings
 
 I am seeking self-motivated Ph.D. students to join our group at SUNY Binghamton University, with opportunities starting in Spring 2026 or Fall 2026. We are particularly interested in students with backgrounds or strong interest in the following areas:
 
-- Renewable Energy Systems and Microgrids
-- Control Theory and Engineering
-- Machine Learning
+- AI for Power
+- Control Systems
 - Optimization Techniques
+- Renewable Energy Systems
   
 If you are passionate about advancing research in these fields, please send your resume to zma10@binghamton.edu. Ensure the subject line of your email reads “PhD Application + Name”. Thank you!
 
 Updates
 ===
+- **August 2025:** Md Mahmudul Hasan joined our group as a Ph.D., welcome!
+  
+- **July 2025:** Honored to receive the IEEE Power and Energy Society Technical Committee Prize Paper Award.
+
+- **April 2025:** Honored to receive the Provost Awards for Research Grants: A Sustainable World.
+  
+- **January 2025:** Chen Chao joined our group as a Ph.D., welcome!
+
 - **August 2024:** Join SUNY Binghamton University ECE Department as an assistant professor.
   
 - **July 2024:** Honored to receive IEEE Power and Energy Society (PES) General Meeting Best Paper Award.
